@@ -1,2 +1,7 @@
 Installed Package:
-Analytics
+    Analytics
+    Authentication
+    Cloud Code
+    Cloud Save
+    Economy
+    Remote Config
