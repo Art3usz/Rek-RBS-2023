@@ -914,10 +914,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 77b0cf78-d64a-4e48-b16a-4e657974ca2c
+  cloudProjectId: cb34ebf0-2547-49af-8207-04312c894912
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Rek-RBS-2023 (1)
+  projectName: Rek-RBS-2023
   organizationId: arteo
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
